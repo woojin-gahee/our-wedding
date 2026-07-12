@@ -56,7 +56,7 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "여러분을 초대합니다.",
+    title: "두 사람의 행복한 순간을 함께해주세요.",
     content: ""
   },
 
@@ -66,7 +66,7 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "이우진", name: "이우진", bank: "국민은행", number: "000-000-000000" },
+      { role: "이우진", name: "이우진", bank: "우리은행", number: "1002-352-198743" },
       { role: "이명구", name: "이명구", bank: "신한은행", number: "000-000-000000" },
       { role: "김정희", name: "김정희", bank: "우리은행", number: "000-000-000000" }
     ],
