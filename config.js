@@ -56,7 +56,7 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "두 사람의 행복한 순간을\n함께해 주세요.",
+    title: "두 사람의 행복한 순간",
     content: ""
   },
 
